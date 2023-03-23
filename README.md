@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## screenshots of the Money Heist App.
 <img width="1440" alt="Screenshot 2023-03-22 at 21 11 02" src="https://user-images.githubusercontent.com/73651340/227314199-d2ef0e7c-ca67-4a91-a07a-2bc0bd596c9f.png">
+<img width="1440" alt="Screenshot 2023-03-23 at 21 28 45" src="https://user-images.githubusercontent.com/73651340/227374873-7e412260-0776-4279-9198-28e35ab02e9b.png">
+
 
 
 ## Available Scripts
