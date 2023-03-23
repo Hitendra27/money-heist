@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## screenshots of the Money Heist App.
+<img width="1440" alt="Screenshot 2023-03-22 at 21 11 02" src="https://user-images.githubusercontent.com/73651340/227314199-d2ef0e7c-ca67-4a91-a07a-2bc0bd596c9f.png">
+
+
 ## Available Scripts
 
 In the project directory, you can run:
