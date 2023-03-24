@@ -1,6 +1,6 @@
 import React from 'react';
 import moneyheist from '../../moneyHeist.json';
-import song from '../../img/songs_Home.mp3';
+//import song from '../../img/songs_Home.mp3';
 
 const CharacterGrid = () => {
   //<h1>{money.alias}</h1>
@@ -9,14 +9,6 @@ const CharacterGrid = () => {
       {moneyheist.map(money => {
         return (
           <div className="card" key={money.id}>
-            <embed
-              src={song}
-              type="audio/mp3"
-              autoplay="true"
-              loop="false"
-              width="0"
-              height="0"
-            ></embed>
             <div className="card-inner">
               <div className="card-front">
                 <img
@@ -35,7 +27,9 @@ const CharacterGrid = () => {
                     <strong>Actor Name:</strong> {money.played_by}
                   </li>
                   <li>
-                    <strong>Nickname:</strong> {money.alias}
+                    <div className="nickname">
+                      <strong>Nickname:</strong> {money.alias}
+                    </div>
                   </li>
                   <li>
                     <strong>Occupation:</strong> {money.occupation}
