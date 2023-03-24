@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/money-heist/static/css/main.a70d262a.css",
+    "main.js": "/money-heist/static/js/main.74448444.js",
+    "static/media/redblack.jpeg": "/money-heist/static/media/redblack.61a2e89c6f5aa61b65f5.jpeg",
+    "static/media/moneyheistlogo.png": "/money-heist/static/media/moneyheistlogo.f9eb68963815aea8e4d1.png",
+    "index.html": "/money-heist/index.html",
+    "main.a70d262a.css.map": "/money-heist/static/css/main.a70d262a.css.map",
+    "main.74448444.js.map": "/money-heist/static/js/main.74448444.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a70d262a.css",
+    "static/js/main.74448444.js"
+  ]
+}
