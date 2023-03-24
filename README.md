@@ -3,8 +3,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## screenshots of the Money Heist App.
+<img width="1440" alt="Screenshot 2023-03-24 at 12 10 31" src="https://user-images.githubusercontent.com/73651340/227525228-8d6331c0-da17-4f80-8e7a-ebb424774916.png">
+<img width="1440" alt="Screenshot 2023-03-24 at 12 10 39" src="https://user-images.githubusercontent.com/73651340/227525281-939c4fe6-64e5-44ce-98ee-4e733acf04f6.png">
+<img width="1440" alt="Screenshot 2023-03-24 at 12 10 46" src="https://user-images.githubusercontent.com/73651340/227525307-e4128e32-7af9-4689-9f90-b20738797b43.png">
+<img width="1440" alt="Screenshot 2023-03-24 at 12 11 02" src="https://user-images.githubusercontent.com/73651340/227525339-abc7aed3-1ecc-47d2-9293-eb05631c54d1.png">
+<img width="1440" alt="Screenshot 2023-03-24 at 12 11 15" src="https://user-images.githubusercontent.com/73651340/227525679-704a2860-3ac8-4cbc-ae30-c38d676cb531.png">
 <img width="1440" alt="Screenshot 2023-03-22 at 21 11 02" src="https://user-images.githubusercontent.com/73651340/227314199-d2ef0e7c-ca67-4a91-a07a-2bc0bd596c9f.png">
 <img width="1440" alt="Screenshot 2023-03-23 at 21 28 45" src="https://user-images.githubusercontent.com/73651340/227374873-7e412260-0776-4279-9198-28e35ab02e9b.png">
+
 
 
 
