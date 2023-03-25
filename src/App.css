@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -9,7 +11,7 @@ body {
   background: #000 url('img/redblack.jpeg') repeat center center/cover;
   height: 100vh;
   color: #fff;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand';
 }
 
 a {
